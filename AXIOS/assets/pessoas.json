@@ -1,0 +1,112 @@
+[
+    {
+      "nome": "Miguel",
+      "email": "miguel@email.com.br",
+      "salario": 27211,
+      "estado": "MG",
+      "empresa": "Facebook",
+      "idade": 34,
+      "sexo": "",
+      "cpf": "362.418.524-18"
+    },
+    {
+      "nome": "Sophia",
+      "email": "sophia@empresa.com.br",
+      "salario": 6971,
+      "estado": "DF",
+      "empresa": "Plastic Co.",
+      "idade": 25,
+      "sexo": "F",
+      "cpf": "742.316.671-52"
+    },
+    {
+      "nome": "Davi",
+      "email": "davi@hotmail.com",
+      "salario": 10465,
+      "estado": "SC",
+      "empresa": "Facebook",
+      "idade": 51,
+      "sexo": "",
+      "cpf": "725.732.024-10"
+    },
+    {
+      "nome": "Alice",
+      "email": "alice@empresa.com.br",
+      "salario": 39010,
+      "estado": "AL",
+      "empresa": "GGTT",
+      "idade": 46,
+      "sexo": "",
+      "cpf": "188.944.026-49"
+    },
+    {
+      "nome": "Arthur",
+      "email": "arthur@email.com.br",
+      "salario": 8726,
+      "estado": "PE",
+      "empresa": "Governo Federal",
+      "idade": 21,
+      "sexo": "",
+      "cpf": "432.594.262-99"
+    },
+    {
+      "nome": "Julia",
+      "email": "julia@email.com.br",
+      "salario": 24250,
+      "estado": "RO",
+      "empresa": "Uber",
+      "idade": 42,
+      "sexo": "F",
+      "cpf": "475.250.344-19"
+    },
+    {
+      "nome": "Pedro",
+      "email": "pedro@uol.com.br",
+      "salario": 8679,
+      "estado": "DF",
+      "empresa": "Facebook",
+      "idade": 43,
+      "sexo": "M",
+      "cpf": "637.637.477-88"
+    },
+    {
+      "nome": "Isabella",
+      "email": "isabella@uol.com.br",
+      "salario": 37303,
+      "estado": "RO",
+      "empresa": "Enum G.",
+      "idade": 59,
+      "sexo": "F",
+      "cpf": "787.264.677-39"
+    },
+    {
+      "nome": "Gabriel",
+      "email": "gabriel@outlook.com",
+      "salario": 32446,
+      "estado": "AM",
+      "empresa": "Facebook",
+      "idade": 44,
+      "sexo": "",
+      "cpf": "868.492.285-95"
+    },
+    {
+      "nome": "Manuela",
+      "email": "manuela@empresa.com.br",
+      "salario": 3898,
+      "estado": "PA",
+      "empresa": "For Men",
+      "idade": 28,
+      "sexo": "F",
+      "cpf": "576.014.456-15"
+    },
+    {
+      "nome": "Bernardo",
+      "email": "bernardo@empresa.com.br",
+      "salario": 19380,
+      "estado": "PA",
+      "empresa": "Plastic Co.",
+      "idade": 46,
+      "sexo": "M",
+      "cpf": "275.350.246-37"
+    }
+]
